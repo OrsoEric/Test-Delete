@@ -1,7 +1,7 @@
 # Test-Delete
 Delete does not set the pointer to null.
-
-
+  
+  
 TEST1 delete  
 Allocate and assign  
 pointer: 0xb81180  
